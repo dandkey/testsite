@@ -682,7 +682,7 @@ h2 {
 
 }
 
-div.scrollup {
+.scrollup {
   position: fixed; /* фиксированная позиция */
   color: #fff; /* цвет текста */
   background-color: #286090; /* цвет заднего фона */
